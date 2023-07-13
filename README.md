@@ -3,25 +3,24 @@ Burada olduğuna göre hayalindeki iş fırsatını yakalamana 1 adım uzaktası
 
 ## Ailemizin her bir üyesinde aradığımız Soft Skill'ler
 
-Disiplinli, motive ve tutkulu
+- Disiplinli, motive ve tutkulu
 
-Proje ihtiyaçlarına ilişkin ilgili kodu geliştirmek ve tasarlamak
+- Proje ihtiyaçlarına ilişkin ilgili kodu geliştirmek ve tasarlamak
 
-Çiftler halinde çalışırken rahat hisseder
+- Çiftler halinde çalışırken rahat hisseder
 
-Teknik görevlerin yerine getirilmesi için ekiple işbirliği yapar
+- Teknik görevlerin yerine getirilmesi için ekiple işbirliği yapar
 
-Çevik bir zihniyete sahiptir
+- Çevik bir zihniyete sahiptir
 
-Yüksek kalite, sadelik ve iyi hazırlanmış bir zihniyete sahiptir
+- Yüksek kalite, sadelik ve iyi hazırlanmış bir zihniyete sahiptir
 
-İyi yumuşak ve iletişim becerilerine sahip
+- İyi yumuşak ve iletişim becerilerine sahip
 
-Başlangıç ​​deneyimi (sahip olmak harika olurdu)
+- Başlangıç ​​deneyimi (sahip olmak harika olurdu)
 
-İyi bir okuyucu, deneyci ve öğrenmeye ve paylaşmaya aç
-
-Açık fikirli, dürüst, etik değerlere yoğun önem veren
+- İyi bir okuyucu, deneyci ve öğrenmeye ve paylaşmaya aç
+- Açık fikirli, dürüst, etik değerlere yoğun önem veren
 
 ## Çalışacağın pozisyonda ihtiyaç duyacağın 
 
