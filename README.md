@@ -75,7 +75,7 @@ Eğer bu özelliklerin tamamına sahip olduğunu düşünüyorsan, sıra bizimle
 https://forms.gle/7bN5eqXPdQbUxi3M8
 
 
-Formu doldurduktan sonra değerlendirme süreci aşağıdaki gibi ilerliyor:
+Formu doldurduktan sonra değerlendirme sürecin aşağıdaki gibi ilerliyecek:
 
 ## İşe Alım Aşamaları
 
