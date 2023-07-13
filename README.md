@@ -1,6 +1,7 @@
 # Recruitment Sayfasına Hoş Geldin
 Burada olduğuna göre hayalindeki iş fırsatını yakalamana 1 adım uzaktasın :D
 
+###
 Öncelikle senden beklediğimiz özelliklere göz atalım --->
 
 
@@ -67,7 +68,7 @@ Burada olduğuna göre hayalindeki iş fırsatını yakalamana 1 adım uzaktası
 - Search engine optimization
 
 
-
+###
 
 Eğer bu özelliklerin tamamına sahip olduğunu düşünüyorsan, sıra bizimle iletişime geçmekte. Bu sebeple aşağıdaki formu doldurmanı rica ediyoruz :D
 
