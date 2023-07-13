@@ -24,44 +24,44 @@ Burada olduğuna göre hayalindeki iş fırsatını yakalamana 1 adım uzaktası
 
 ## Çalışacağın pozisyonda ihtiyaç duyacağın 
 
-Backend
+### Backend
 
-Java 17, Groovy 3 and JVM Ecosystem
+- Java 17, Groovy 3 and JVM Ecosystem
 
-Object-Oriented Programming
+- Object-Oriented Programming
 
-Spring Boot, Spring Cloud and Spring Ecosystem
+- Spring Boot, Spring Cloud and Spring Ecosystem
 
-Database, JPA, and Hibernate
+- Database, JPA, and Hibernate
 
-Restful Web Services
+- Restful Web Services
 
-Microservice and Modular Architectures
+- Microservice and Modular Architectures
 
-Hexagonal Architecture, Domain Driven Design Principles
+- Hexagonal Architecture, Domain Driven Design Principles
 
-Concurrency and Scaling
+- Concurrency and Scaling
 
-Rest Standards
+- Rest Standards
 
-Transaction Management
+- Transaction Management
 
-Designing code via TDD
+- Designing code via TDD
 
-SOLID Principles and Clean Code
+- SOLID Principles and Clean Code
 
 
-Frontend
+### Frontend
 
-Translating UI/UX design wireframes to actual code
+- Translating UI/UX design wireframes to actual code
 
-Design and Build React based scalable, fast UI components
+- Design and Build React based scalable, fast UI components
 
-Full ownership of CI/CD pipeline
+- Full ownership of CI/CD pipeline
 
-Automated testing
+- Automated testing
 
-Search engine optimization
+- Search engine optimization
 
 
 
@@ -91,6 +91,8 @@ Buraya kadar herşey uygun ise son aşamaya geçiyoruz. Başvurduğun pozisyonun
 Tüm bu aşamaların ardından Finartz ailesine ailesinin bir parçası haline geliyorsun.
 
 Peki sonrasında seni nasıl bir hayat bekliyor?
+
+
 
 ## Finartz'da çalışma hayatı
 Damlaya sorulacak
