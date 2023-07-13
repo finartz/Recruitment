@@ -90,3 +90,8 @@ Buraya kadar herşey uygun ise son aşamaya geçiyoruz. Başvurduğun pozisyonun
 
 
 Tüm bu aşamaların ardından Finartz ailesine ailesinin bir parçası haline geliyorsun.
+
+Peki sonrasında seni nasıl bir hayat bekliyor?
+
+## Finartz'da çalışma hayatı
+Damlaya sorulacak
