@@ -4,38 +4,66 @@ Burada olduğuna göre hayalindeki iş fırsatını yakalamana 1 adım uzaktası
 ## Ailemizin her bir üyesinde aradığımız Soft Skill'ler
 
 Disiplinli, motive ve tutkulu
+
 Proje ihtiyaçlarına ilişkin ilgili kodu geliştirmek ve tasarlamak
+
 Çiftler halinde çalışırken rahat hisseder
+
 Teknik görevlerin yerine getirilmesi için ekiple işbirliği yapar
+
 Çevik bir zihniyete sahiptir
+
 Yüksek kalite, sadelik ve iyi hazırlanmış bir zihniyete sahiptir
+
 İyi yumuşak ve iletişim becerilerine sahip
+
 Başlangıç ​​deneyimi (sahip olmak harika olurdu)
+
 İyi bir okuyucu, deneyci ve öğrenmeye ve paylaşmaya aç
+
 Açık fikirli, dürüst, etik değerlere yoğun önem veren
 
 ## Çalışacağın pozisyonda ihtiyaç duyacağın 
 
 Backend
+
 Java 17, Groovy 3 and JVM Ecosystem
+
 Object-Oriented Programming
+
 Spring Boot, Spring Cloud and Spring Ecosystem
+
 Database, JPA, and Hibernate
+
 Restful Web Services
+
 Microservice and Modular Architectures
+
 Hexagonal Architecture, Domain Driven Design Principles
+
 Concurrency and Scaling
+
 Rest Standards
+
 Transaction Management
+
 Designing code via TDD
+
 SOLID Principles and Clean Code
 
+
 Frontend
+
 Translating UI/UX design wireframes to actual code
+
 Design and Build React based scalable, fast UI components
+
 Full ownership of CI/CD pipeline
+
 Automated testing
+
 Search engine optimization
+
 
 
 
