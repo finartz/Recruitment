@@ -1,5 +1,7 @@
 # Recruitment Sayfasına Hoş Geldin
 Burada olduğuna göre hayalindeki iş fırsatını yakalamana 1 adım uzaktasın :D
+Öncelikle senden beklediğimiz özelliklere göz atalım --->
+
 
 ## Ailemizin her bir üyesinde aradığımız Soft Skill'ler
 
