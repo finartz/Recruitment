@@ -11,21 +11,17 @@ Burada olduğuna göre hayalindeki iş fırsatını yakalamana 1 adım uzaktası
 
 - Proje ihtiyaçlarına ilişkin ilgili kodu geliştirmek ve tasarlamak,
 
-- Çiftler halinde çalışırken rahat hisseder,
+- Takım oyuncusu olmak,
 
-- Teknik görevlerin yerine getirilmesi için ekiple işbirliği yapar,
+- Teknik görevlerin yerine getirilmesi için ekiple işbirliği yapan,
 
-- Çevik bir zihniyete sahiptir,
+- Yüksek iletişim becerilerine sahip,
 
-- Yüksek kalite, sadelik ve iyi hazırlanmış bir zihniyete sahiptir,
+- İş deneyimi, tecrübe sahibi,
 
-- İyi yumuşak ve iletişim becerilerine sahip,
-
-- Başlangıç ​​deneyimi (sahip olmak harika olurdu),
-
-- İyi bir okuyucu, deneyci ve öğrenmeye ve paylaşmaya aç,
+- İyi bir okuyucu, öğrenmeye ve paylaşmaya açıklık,
   
-- Açık fikirli, dürüst, etik değerlere yoğun önem veren,
+- Açık fikirli, dürüst, etik değerlere önem veren,
 
 ## 💫 Çalışacağın pozisyonda ihtiyaç duyacağın 
 
