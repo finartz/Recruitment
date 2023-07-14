@@ -1,32 +1,33 @@
-# Recruitment Sayfasına Hoş Geldin
-Burada olduğuna göre hayalindeki iş fırsatını yakalamana 1 adım uzaktasın :D
+# Recruitment Sayfasına Hoş Geldin 👋🤗
+Burada olduğuna göre hayalindeki iş fırsatını yakalamana 1 adım uzaktasın. 👣💪😊
 
 ###
-Öncelikle senden beklediğimiz özelliklere göz atalım --->
+Öncelikle senden beklediğimiz özelliklere göz atalım. 👀👇
 
 
-## Ailemizin her bir üyesinde aradığımız Soft Skill'ler
+## 💫 Ailemizin her bir üyesinde aradığımız Soft Skill'ler 
 
-- Disiplinli, motive ve tutkulu
+- Disiplinli, motive ve tutkulu,
 
-- Proje ihtiyaçlarına ilişkin ilgili kodu geliştirmek ve tasarlamak
+- Proje ihtiyaçlarına ilişkin ilgili kodu geliştirmek ve tasarlamak,
 
-- Çiftler halinde çalışırken rahat hisseder
+- Çiftler halinde çalışırken rahat hisseder,
 
-- Teknik görevlerin yerine getirilmesi için ekiple işbirliği yapar
+- Teknik görevlerin yerine getirilmesi için ekiple işbirliği yapar,
 
-- Çevik bir zihniyete sahiptir
+- Çevik bir zihniyete sahiptir,
 
-- Yüksek kalite, sadelik ve iyi hazırlanmış bir zihniyete sahiptir
+- Yüksek kalite, sadelik ve iyi hazırlanmış bir zihniyete sahiptir,
 
-- İyi yumuşak ve iletişim becerilerine sahip
+- İyi yumuşak ve iletişim becerilerine sahip,
 
-- Başlangıç ​​deneyimi (sahip olmak harika olurdu)
+- Başlangıç ​​deneyimi (sahip olmak harika olurdu),
 
-- İyi bir okuyucu, deneyci ve öğrenmeye ve paylaşmaya aç
-- Açık fikirli, dürüst, etik değerlere yoğun önem veren
+- İyi bir okuyucu, deneyci ve öğrenmeye ve paylaşmaya aç,
+  
+- Açık fikirli, dürüst, etik değerlere yoğun önem veren,
 
-## Çalışacağın pozisyonda ihtiyaç duyacağın 
+## 💫 Çalışacağın pozisyonda ihtiyaç duyacağın 
 
 ### Backend
 
@@ -70,33 +71,33 @@ Burada olduğuna göre hayalindeki iş fırsatını yakalamana 1 adım uzaktası
 
 ###
 
-Eğer bu özelliklerin tamamına sahip olduğunu düşünüyorsan, sıra bizimle iletişime geçmekte. Bu sebeple aşağıdaki formu doldurmanı rica ediyoruz :D
+👆 Eğer bu özelliklerin tamamına sahip olduğunu düşünüyorsan, sıra bizimle iletişime geçmekte. Bu sebeple aşağıdaki formu doldurmanı rica ediyoruz. 👇
 
-https://forms.gle/7bN5eqXPdQbUxi3M8
+👩‍💻👨‍💻 https://forms.gle/7bN5eqXPdQbUxi3M8
 
 
-Formu doldurduktan sonra değerlendirme sürecin aşağıdaki gibi ilerliyecek:
+Formu doldurduktan sonra değerlendirme sürecin aşağıdaki gibi ilerliyecek:👇 
 
-## İşe Alım Aşamaları
+## 📌 İşe Alım Aşamaları
 
-### 1) Başvuru
-Bize yolladığın özgeçmişi değerlendiriyoruz ve başvurduğun pozisyon için dorğu niteliklere sahip olup olmadığın hakkında fikir ediniyoruz.
+### 1️⃣ Başvuru
+Bize yolladığın özgeçmişi değerlendiriyoruz ve başvurduğun pozisyon için doğru niteliklere sahip olup olmadığın hakkında fikir ediniyoruz.
 
-### 2) Ön Mülakat
+### 2️⃣ Ön Mülakat
 Seni arayarak özgeçmişinde yer alan bilgileri onaylıyor ve sonraki aşamaların planlaması için görüşme gerçekleştiriyoruz.
 
-### 3) Ön Mülakat
+### 3️⃣ Ön Mülakat
 Düzenlediğimiz online mülakat ile seninle yüzyüze tanışıyor ve birbirimizi yakından tanıyoruz. Karşılıklı beklentilerimizi daha detaylı ifade ediyoruz.
 
-### 4) Ön Mülakat
+### 4️⃣ Ön Mülakat
 Buraya kadar herşey uygun ise son aşamaya geçiyoruz. Başvurduğun pozisyonun yöneticisi ile sohbet havasında bir teknik mülakat gerçekleştirmeni sağlayarak hem bu pozisyon için en uygun aday olduğu hem de  şirket kültürümüzle uyum sağlayacağını teyit ediyoruz.
 
 
-Tüm bu aşamaların ardından Finartz ailesine ailesinin bir parçası haline geliyorsun.
+Tüm bu aşamaların ardından Finartz ailesine ailesinin bir parçası haline geliyorsun.🤩🚀👫
 
-Peki sonrasında seni nasıl bir hayat bekliyor?
+Peki sonrasında seni nasıl bir hayat bekliyor? ❓🧐💭
 
 
 
-## Finartz'da çalışma hayatı
+## Finartz'da çalışma hayatı 
 Damlaya sorulacak
