@@ -5,7 +5,7 @@ Burada olduğuna göre hayalindeki iş fırsatını yakalamana 1 adım uzaktası
 Öncelikle senden beklediğimiz özelliklere göz atalım. 👀👇
 
 
-## 💫 Ailemizin her bir üyesinde aradığımız Soft Skill'ler 
+## 💫 Ailemizin Her Üyesinde Aradığımız Soft Skill'ler 
 
 - Disiplinli, motive ve tutkulu,
 
@@ -23,7 +23,7 @@ Burada olduğuna göre hayalindeki iş fırsatını yakalamana 1 adım uzaktası
   
 - Açık fikirli, dürüst, etik değerlere önem veren,
 
-## 💫 Çalışacağın pozisyonda ihtiyaç duyacağın 
+## 💫 Çalışacağın Pozisyonda İhtiyaç Duyacağın 
 
 ### Backend
 
@@ -95,5 +95,5 @@ Peki sonrasında seni nasıl bir hayat bekliyor? ❓🧐💭
 
 
 
-## Finartz'da çalışma hayatı 
+## Finartz'da Çalışma Hayatı 
 Damlaya sorulacak
