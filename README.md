@@ -17,7 +17,7 @@ Burada olduğuna göre hayalindeki iş fırsatını yakalamana 1 adım uzaktası
 
 - Yüksek iletişim becerilerine sahip,
 
-- İş deneyimi, tecrübe sahibi,
+- İş deneyimi,
 
 - İyi bir okuyucu, öğrenmeye ve paylaşmaya açıklık,
   
