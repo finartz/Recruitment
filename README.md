@@ -67,9 +67,11 @@ Burada olduğuna göre hayalindeki iş fırsatını yakalamana bir adım uzaktas
 
 ###
 
-👆 Eğer bu özelliklerin tamamına sahip olduğunu düşünüyorsan, sıra bizimle iletişime geçmekte. Bu sebeple aşağıdaki formu doldurmanı rica ediyoruz. 👇
+👆 Eğer bu özelliklerin tamamına sahip olduğunu düşünüyorsan, sıra bizimle iletişime geçmekte. Bu sebeple aşağıdaki kanallar üzerinden başvuru yapmanı rica ediyoruz. 👇
 
-👩‍💻👨‍💻 https://forms.gle/7bN5eqXPdQbUxi3M8
+Başvuru Formu: https://forms.gle/7bN5eqXPdQbUxi3M8
+LinkedIn Hesabı: https://www.linkedin.com/company/finartz/jobs/
+kariyer.net Hesabı: https://www.kariyer.net/firma-profil/finartz-bilgi-teknolojileri-a-s-51798-200296
 
 
 Formu doldurduktan sonra değerlendirme sürecin aşağıdaki gibi ilerliyecek:👇 
