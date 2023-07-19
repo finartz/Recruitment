@@ -80,7 +80,7 @@ kariyer.net Hesabı: https://www.kariyer.net/firma-profil/finartz-bilgi-teknoloj
 
 
 
-Formu doldurduktan sonra değerlendirme sürecin aşağıdaki gibi ilerliyecek:👇 
+Formu doldurduktan sonra değerlendirme sürecin aşağıdaki gibi ilerliyecek:
 
 ## 📌 İşe Alım Aşamaları
 
