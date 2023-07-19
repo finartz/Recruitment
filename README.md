@@ -7,23 +7,19 @@ Burada olduğuna göre hayalindeki iş fırsatını yakalamana bir adım uzaktas
 
 ## 💫 Ailemizin Her Üyesinde Aradığımız Soft Skill'ler 
 
-- Disiplinli, motive ve tutkulu,
-
-- Proje ihtiyaçlarına ilişkin ilgili kodu geliştirmek ve tasarlamak,
+- Disiplinli, motive ve tutkulu bir birey olmak,
 
 - Takım oyuncusu olmak,
 
-- Teknik görevlerin yerine getirilmesi için ekiple işbirliği yapan,
+- Teknik görevlerin yerine getirilmesi için ekiple işbirliği yapabilmek,
 
-- Yüksek iletişim becerilerine sahip,
+- Yüksek iletişim becerilerine sahip olmak,
 
-- İş deneyimi,
-
-- İyi bir okuyucu, öğrenmeye ve paylaşmaya açıklık,
+- İyi bir okuyucu olmak, öğrenmeye ve paylaşmaya açık olmak,
   
-- Açık fikirli, dürüst, etik değerlere önem veren,
+- Açık fikirli, dürüst, etik değerlere önem veren biri olmak,
 
-## 💫 Çalışacağın Pozisyonda İhtiyaç Duyacağın 
+## 💫 Çalışacağın Pozisyonda İhtiyaç Duyacağın özellikler
 
 ### Backend
 
@@ -97,9 +93,8 @@ Düzenlediğimiz online mülakat ile seninle yüzyüze tanışıyor ve birbirimi
 Buraya kadar herşey uygun ise son aşamaya geçiyoruz. Başvurduğun pozisyonun yöneticisi ile sohbet havasında bir teknik mülakat gerçekleştirmeni sağlayarak hem bu pozisyon için en uygun aday olduğu hem de  şirket kültürümüzle uyum sağlayacağını teyit ediyoruz.
 
 
-Tüm bu aşamaların ardından Finartz ailesine ailesinin bir parçası haline geliyorsun.🤩🚀
+Tüm bu aşamaların ardından Finartz ailesine ailesinin bir parçası haline geleceksin. 🤩🚀
 
-Peki sonrasında seni nasıl bir hayat bekliyor? 🧐💭
 
 
 
