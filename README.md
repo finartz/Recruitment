@@ -1,8 +1,8 @@
 # Recruitment Sayfasına Hoş Geldin 
-Burada olduğuna göre hayalindeki iş fırsatını yakalamana bir adım uzaktasın. 👣💪😊
+Burada olduğuna göre hayalindeki iş fırsatını yakalamana bir adım uzaktasın. 💪😊
 
 ###
-Öncelikle senden beklediğimiz özelliklere göz atalım. 👀👇
+Öncelikle senden beklediğimiz özelliklere göz atalım. 👇
 
 
 ## 💫 Ailemizin Her Üyesinde Aradığımız Soft Skill'ler 
@@ -70,8 +70,14 @@ Burada olduğuna göre hayalindeki iş fırsatını yakalamana bir adım uzaktas
 👆 Eğer bu özelliklerin tamamına sahip olduğunu düşünüyorsan, sıra bizimle iletişime geçmekte. Bu sebeple aşağıdaki kanallar üzerinden başvuru yapmanı rica ediyoruz. 👇
 
 Başvuru Formu: https://forms.gle/7bN5eqXPdQbUxi3M8
+
+
 LinkedIn Hesabı: https://www.linkedin.com/company/finartz/jobs/
+
+
 kariyer.net Hesabı: https://www.kariyer.net/firma-profil/finartz-bilgi-teknolojileri-a-s-51798-200296
+
+
 
 
 Formu doldurduktan sonra değerlendirme sürecin aşağıdaki gibi ilerliyecek:👇 
@@ -91,9 +97,9 @@ Düzenlediğimiz online mülakat ile seninle yüzyüze tanışıyor ve birbirimi
 Buraya kadar herşey uygun ise son aşamaya geçiyoruz. Başvurduğun pozisyonun yöneticisi ile sohbet havasında bir teknik mülakat gerçekleştirmeni sağlayarak hem bu pozisyon için en uygun aday olduğu hem de  şirket kültürümüzle uyum sağlayacağını teyit ediyoruz.
 
 
-Tüm bu aşamaların ardından Finartz ailesine ailesinin bir parçası haline geliyorsun.🤩🚀👫
+Tüm bu aşamaların ardından Finartz ailesine ailesinin bir parçası haline geliyorsun.🤩🚀
 
-Peki sonrasında seni nasıl bir hayat bekliyor? ❓🧐💭
+Peki sonrasında seni nasıl bir hayat bekliyor? 🧐💭
 
 
 
